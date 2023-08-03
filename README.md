@@ -1,5 +1,5 @@
 # LearningML
 
-Regex:
-_Accepting all capital letter:_
-pattern = re.complie ("^[A-Z]+$")
+Regex:<br>
+_Accepting all capital letters:_ <br>
+pattern = re.compile ("^[A-Z]+$")
